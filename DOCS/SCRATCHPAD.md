@@ -1,3 +1,10 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
+## 2026-03-18 - README & Docs
+- Created user-facing `README.md` for GitHub: Citadel Stack overview, architecture diagram,
+  status, quick links, tech badges (Rust, React, TS, Vite, PixiJS, SpacetimeDB).
+- Updated CHANGELOG, SUMMARY.
+
 ## 2026-03-18 - Git Prep
 - Initialized git repo.
 - Added `.gitignore` (Node, Rust, Vite, Tauri, SpacetimeDB, IDE, OS, logs).

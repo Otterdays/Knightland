@@ -1,7 +1,9 @@
+<!-- PRESERVATION RULE: Never delete or replace content. Append or annotate only. -->
+
 ## Project Status
 **Project Name:** Knightland ⚔️
 **Current Phase:** Planning / Architecture Finalized  
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-03-18
 
 ---
 
